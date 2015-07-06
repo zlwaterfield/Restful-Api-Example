@@ -2,8 +2,14 @@
 
 This is a very simple example of a api using mongo, node and express. 
 
-Live link can be found at 
+Live link of my working example can be found at 
 
-`http://wilted.me:3000/ski_resorts`
+ - base `http://wilted.me`
+ - endpoints `ski_resorts`, `:region/ski_resorts`, `ski_resorts/:id`
+
+Regions Supported 
+ - `alberta`
+ - `ontario`
+ - `quebec`
 
 *For security reasons `POST`, `PUT` and `DELETE` have been commented out.
