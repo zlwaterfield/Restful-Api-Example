@@ -1,15 +1,11 @@
-# Api Example
-
+# node-express-api-starter
 This is a very simple example of a api using mongo, node and express. 
 
-Live link of my working example can be found at 
+### Run locally
+###### Must have node installed `https://nodejs.org/en/`
 
- - base `http://wilted.me`
- - endpoints `ski_resorts`, `:region/ski_resorts`, `ski_resorts/:id`
+  - Clone repo `git clone <repo url>`
+  - `npm install`
+  - `node server.js` 
+  - Open browser `http://localhost:3000`
 
-Regions Supported 
- - `alberta`
- - `ontario`
- - `quebec`
-
-*For security reasons `POST`, `PUT` and `DELETE` have been commented out.

@@ -1,9 +1,11 @@
 {
-    "name": "Restful-Api-Eample",
-    "description": "",
-    "version": "0.0.1",
-    "private": true,
-    "dependencies": {
-        "express": "3.x"
-    }
+  "name": "node-express-api-starter",
+  "description": "node-express-api-starter",
+  "version": "0.0.1",
+  "dependencies": {
+    "body-parser": "^1.14.0",
+    "cookie-parser": "^1.4.0",
+    "cookie-session": "^1.2.0",
+    "express": "3.x"
+  }
 }
