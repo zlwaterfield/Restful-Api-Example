@@ -13,7 +13,6 @@ app.use(cookieSession({secret: 'app_1'}));
 app.use(express.logger('dev'));     /* 'default', 'short', 'tiny', 'dev' */
 // app.use(express.bodyParser());
 
-app.use("/styles", express.static('public/styles'));
 app.use("/favicon.ico", express.static('public/favicon.ico'));
 app.use("/fonts", express.static('public/fonts'));
 
