@@ -1,5 +1,5 @@
 var express = require('express'),
-    actions = require('./routes/actions');
+    actions = require('./routes');
 
 var app = express();
 
