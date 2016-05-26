@@ -9,7 +9,7 @@ This is a very simple example of a api using mongo, node and express.
   - `node server.js` 
   - Open browser `http://localhost:3000`
 
-###### Must have node installed and running locally `https://www.mongodb.org/downloads#production`
+###### Must have mongo installed and running locally `https://www.mongodb.org/downloads#production`
   - `mongob`
 
 ###### Must have db name `test` and must have collection name `collection1` (change in code if needed)
